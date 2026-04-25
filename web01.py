@@ -672,7 +672,7 @@ HTML = '''
                 <div class="metric-label">📡 Đo lường V</div>
                 <div class="metric-name">Giá trị V (tính toán)</div>
                 <div class="metric-value" id="valV">—</div>
-                <div class="metric-unit">UNIT</div>
+                <div class="metric-unit">m/s</div>
             </div>
         </div>
 
